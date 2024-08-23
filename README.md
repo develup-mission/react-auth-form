@@ -1,4 +1,4 @@
-# 리액트 회원가입/로그인 폼
+# 리액트 회원가입/로그인 폼 버건디바보
 
 <img width="236" alt="스크린샷 2024-08-19 오후 3 59 09" src="https://github.com/user-attachments/assets/6884123d-dcec-49b2-ae5f-5a4ea87000bd">
 
