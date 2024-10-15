@@ -8,8 +8,10 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "test": "jest"
+    "test": "jest",
+    "deploy": "npm run build && npx gh-pages -d dist"
   },
+  "homepage": "https://{github_name}.github.io/react-auth-form",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
